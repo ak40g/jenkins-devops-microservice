@@ -30,4 +30,4 @@ pipeline {
 			echo 'I run when you fail'
 		}
 	}
-]
+}
